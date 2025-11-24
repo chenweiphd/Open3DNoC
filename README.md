@@ -1,7 +1,5 @@
 # Open3DNoC
 
-![image-20251124220937730](C:/Users/i/AppData/Roaming/Typora/typora-user-images/image-20251124220937730.png)
-
 ### Introduction
 
 Open3DNoC is an advanced open-source IP core developed for Network-on-Chip (NoC) in 3D-stacked RISC-V processors. It enables efficient communication across stacked dies, supporting high-performance computing while maintaining open-source accessibility. For more, visit the GitHub of Open3DRISCV.
