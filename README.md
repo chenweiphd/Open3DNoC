@@ -65,6 +65,10 @@ The pipeline is 12-stage with 3-issue/8-execution ports, and the floorplan suppo
 
 #### **Related Resources**
 
+ OpenRVGPUCourese    https://github.com/chenweiphd/OpenRVGPUCourse
+
 OpenNoC
 
  
+
+![image](https://raw.githubusercontent.com/chenweiphd/typopic/master/502929102-39c5d16e-9783-49a6-b9ed-25f4c363db97.png)
