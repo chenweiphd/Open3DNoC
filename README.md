@@ -18,6 +18,8 @@ The core supports scalable configurations, from single-bank setups with 16 cores
 
 ​                ● It enhanced efficiency via AXI support and node partitioning.
 
+
+
 #### **Advantages and Innovation Features**
 
 Open3DNoC’s innovations focus on overcoming limitations in traditional 2D NoCs by optimizing for 3D stacking, enhancing efficiency, and promoting open-source accessibility. It offers significant advantages in performance, cost, and customizability, validated through benchmarks on RISC-V MPSoCs. Key innovation points include:
@@ -39,6 +41,8 @@ Additional advantages include support for 2D/3D topologies (mesh, ring), low ove
 | AXI Integration           | Efficient routing + control  | High-throughput interconnects | 128-bit DDR/PCIe support            |
 | Node Partitioning         | Logic/Memory die split       | Synchronized circuits         | Lower latency in V-Cache            |
 | Open-Source Tools         | Yosys/OpenROAD compatible    | Customizable flows            | ASIC/FPGA synthesis flexibility     |
+
+
 
 #### **IP Core Architecture**
 
@@ -62,6 +66,8 @@ The pipeline is 12-stage with 3-issue/8-execution ports, and the floorplan suppo
 | RN-I/SN-F     | Request/Slave Nodes    | CHI Protocol           | AXI Support              |
 | Routers       | Scalable Routing       | Mesh/Ring Topology     | 3D Partitioning          |
 | Bonding Layer | Cross-Die Interconnect | TSVs, Micro-bumps      | Cost-Effective Packaging |
+
+
 
 #### **Related Resources**
 
