@@ -1,5 +1,7 @@
 # Open3DNoC
 
+<img width="582" height="100" alt="image" src="https://github.com/user-attachments/assets/2bb16723-9917-46e0-a402-cfc3d8ddb878" />
+
 ### Introduction
 
 Open3DNoC is an advanced open-source IP core developed for Network-on-Chip (NoC) in 3D-stacked RISC-V processors. It enables efficient communication across stacked dies, supporting high-performance computing while maintaining open-source accessibility. For more, visit the GitHub of Open3DRISCV.
