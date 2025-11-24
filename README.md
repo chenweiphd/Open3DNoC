@@ -1,6 +1,6 @@
 # Open3DNoC
 
-
+![image-20251124220937730](C:/Users/i/AppData/Roaming/Typora/typora-user-images/image-20251124220937730.png)
 
 ### Introduction
 
