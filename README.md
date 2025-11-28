@@ -71,9 +71,16 @@ The pipeline is 12-stage with 3-issue/8-execution ports, and the floorplan suppo
 
 #### **Related Resources**
 
- OpenRVGPUCourese    https://github.com/chenweiphd/OpenRVGPUCourse
-
-OpenNoC
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [OpenRVGPUCourese](https://github.com/chenweiphd/OpenRVGPUCourse) | OpenRVGPUCourse aims to achieve entry into RISC-V GPU architecture in the shortest path while exploring the application potential of technologies such as 2.5D/3D/3.5D Chiplet and open-source EDA in open-source GPUs |
+| [OpenTensorCore](https://github.com/chenweiphd/OpenTensorCore) | OpenTensorCore is an open-source intellectual property (IP) core designed specifically for tensor-based computations in artificial intelligence (AI) and machine learning (ML) applications. Which focuses on expanding the RISC-V open-source ecosystem, this IP core aims to provide high-throughput matrix/tensor operations comparable to proprietary solutions like NVIDIA's Tensor Cores, but with the advantages of openness, customizability, and royalty-free licensing. |
+| OpenNoC                                                      |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
 
  
 
